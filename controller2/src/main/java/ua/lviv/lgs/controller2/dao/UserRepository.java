@@ -1,4 +1,4 @@
-package dao;
+package ua.lviv.lgs.controller2.dao;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
