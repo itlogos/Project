@@ -1,6 +1,0 @@
-package ua.lviv.lgs.controller2.domain;
-
-public enum Subjects {
-HISTORY, UKRAINE, ENGLISH, MATHEMATICS, GEOGRAPHY, PHISICS, CHEMISTRY, 
-COMPUTER_SCIENCE,SPORTS,CERTIFICATE_MARK
-}
